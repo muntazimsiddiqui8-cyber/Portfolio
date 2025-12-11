@@ -1,6 +1,6 @@
-# 🚀 Portfolio — Muntazim Siddiqui
+# 🚀 Portfolio — Muntazim Siddiqui ✨
 
-A modern, responsive personal portfolio website showcasing the skills, projects, and experience of Muntazim Siddiqui — Frontend Developer. Built with love ❤️ and a clean, responsive design.
+A modern, responsive personal portfolio website showcasing the skills, projects, and experience of Muntazim Siddiqui — Frontend Developer. Built a clean and responsive design.
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -46,3 +46,4 @@ cd Portfolio
 <br>
 
 ## Made with ❤️ by Muntazim Siddiqui
+
