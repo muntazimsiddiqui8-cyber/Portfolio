@@ -6,6 +6,9 @@ A modern, responsive personal portfolio website showcasing the skills, projects,
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+
+## 🔗 [Visit the Live Project ✨](https://muntazim-portfolio.netlify.app/)
+
 <br>
 
 ## ✨ Features
@@ -46,5 +49,6 @@ cd Portfolio
 <br>
 
 ## Made with ❤️ by Muntazim Siddiqui
+
 
 
